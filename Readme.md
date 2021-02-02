@@ -2,4 +2,4 @@
 
 Проект «Большое путешествие» от HTML Academy.
 
-[Опубликованная версия](https://rfiand.github.io/big-trip)
+[Опубликованная версия](https://efiand.github.io/big-trip)
